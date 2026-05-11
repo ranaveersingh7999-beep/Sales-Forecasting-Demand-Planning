@@ -1,4 +1,5 @@
 📈 Sales Forecasting & Demand Planning
+
 🚀 Overview
 This project focuses on building a predictive analytics pipeline to analyze historical sales trends and forecast future product demand. By utilizing Python and Machine Learning, the system provides actionable insights that allow businesses to optimize inventory levels and streamline supply chain operations.
 
